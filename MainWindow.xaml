@@ -10,16 +10,16 @@
         <ListBox Name="Photos" Background="Lavender">
             <ListBoxItem Margin="3">
                 <StackPanel Orientation="Horizontal">
-                    <Image Source="Resource/cats.jpg" Width="164" />
+                    <Image Source="Resource/cats.jpg" Width="60" />
                     <TextBlock>cats.jpg</TextBlock>
                 </StackPanel>
             </ListBoxItem>
             <StackPanel Orientation="Horizontal">
-                <Image Source="Resource/windowcat.jpg" Width="168" />
+                <Image Source="Resource/windowcat.jpg" Width="60" />
                 <TextBlock>windowcat.jpg</TextBlock>
             </StackPanel>
             <StackPanel Orientation="Horizontal">
-                <Image Source="Resource/234.jpg" Width="168" />
+                <Image Source="Resource/234.jpg" Width="60" />
                 <TextBlock>234.jpg</TextBlock>
             </StackPanel>
         </ListBox>
